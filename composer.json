@@ -1,0 +1,13 @@
+{
+  "name": "dboichuk/328/foodV2",
+  "authors": [
+    {
+      "name": "Dmytro Boichuk",
+      "email": "dboichuk@greenriver.edu"
+    }
+
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
